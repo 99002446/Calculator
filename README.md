@@ -4,3 +4,5 @@
 
 ![C/C++ CI](https://github.com/99002446/Calculator/workflows/C/C++%20CI/badge.svg?branch=main)
 ![Unit testing](https://github.com/99002446/Calculator/workflows/Unit%20testing/badge.svg)
+
+![Valgrind](https://github.com/99002446/Calculator/workflows/Valgrind/badge.svg?branch=main)
