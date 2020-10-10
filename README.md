@@ -6,3 +6,4 @@
 ![Unit testing](https://github.com/99002446/Calculator/workflows/Unit%20testing/badge.svg)
 
 ![Valgrind](https://github.com/99002446/Calculator/workflows/Valgrind/badge.svg?branch=main)
+![cppcheck-action](https://github.com/99002446/Calculator/workflows/cppcheck-action/badge.svg?branch=main)
